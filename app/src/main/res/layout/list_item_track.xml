@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="70dp"
+              android:padding="10dp"
+    >
+
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/album_image"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/ic_launcher"
+        />
+
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_alignParentRight="true"
+              android:gravity="center_vertical"
+              android:layout_toRightOf="@id/album_image"
+              android:layout_marginLeft="10dp"
+              android:text="Example applicationlower"
+              android:ellipsize="marquee"
+              android:singleLine="true"
+              android:id="@+id/album_name" />
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:layout_alignParentBottom="true"
+              android:layout_alignParentRight="true"
+              android:layout_above="@id/album_name"
+              android:layout_toRightOf="@id/album_image"
+              android:gravity="center_vertical"
+              android:layout_marginLeft="10dp"
+              android:text="Example application"
+              android:ellipsize="marquee"
+              android:singleLine="true"
+              android:id="@+id/track_name" />
+
+</RelativeLayout>

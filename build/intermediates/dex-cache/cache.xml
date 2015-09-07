@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-1eb7e7e6a46152ae4ae5975b0e1c67cb5fb00303.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/exploded-aar/spotify-web-api-android-0.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc687866ab2bffb322f0907936930d2845c3fc50">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/classes-26ca8c49363e1b1f31bcc1dcb243057e3c28fee9.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-35120c4144ec38bc30269f29e44d59421dca8bad.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-017a70030c9281b5a684a4388fa2465038f738fc.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/gson-2.3.1-9a49bebeb8609730a0eb9616b5d88286a4f462e5.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-de15c950d6f1868b183668e8e7db76d09fcbc7f0.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/classes-53233e6ed393f2c214262a6932132a65dfadf121.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.2.0/c0b52915a48fa91b1b94a28d4a2997bac5f524df/okio-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0b52915a48fa91b1b94a28d4a2997bac5f524df">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/okio-1.2.0-5d3f28cb82d4b96bb0a33846b0eb324d8abc7f54.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/okhttp-2.2.0-7bed2c4b64aab690edff1f9d8686dd95fb7c6e55.jar" />
+    </item>
+    <item
+        jar="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/sophia.lu/AndroidStudioProjects/SpotifyStreamer2/app/build/intermediates/pre-dexed/debug/classes-9b264dfeb94675ec28656ced3db8a3af07854ea9.jar" />
+    </item>
+
+</items>
